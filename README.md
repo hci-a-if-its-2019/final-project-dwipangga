@@ -35,8 +35,8 @@ Ah... We're forget to tell what kind of website will we criticize for this proje
 Can you guess it? No idea? Ok, we will introduce it for you.
 
 > **viraindo.com** is a website of a computer store which located at Mangga Dua Mall, Jakarta. **viraindo.com** is owned by Vira Jaya Computer. They provide the information about the price of computer parts they sell. As a big computer store, viraindo has a large collection of computer parts. This site was created to ease the customers while checking the price of computer parts on their store. 
-
-Many people, if want to buy computer parts and laptop, they refrence to this website (Because, in Viraindo, they show the price and the specifications (in Laptop section) with clear and many brands and types of Laptop showed on that website. And some of the person who gives recomendation on the Consultant of Notebook Specification forum in one of largest web forum in Indonesia, many of them using Viraindo website to give a recomendation to which was asking on this forum because of the lot of brands and clear specification to show it)
+>
+>Many people, if want to buy computer parts and laptop, they refrence to this website (Because, in Viraindo, they show the price and the specifications (in Laptop section) with clear and many brands and types of Laptop showed on that website. And some of the person who gives recomendation on the Consultant of Notebook Specification forum in one of largest web forum in Indonesia, many of them using Viraindo website to give a recomendation to which was asking on this forum because of the lot of brands and clear specification to show it)
 
 `Coming soon... Why viraindo design is bad`
 

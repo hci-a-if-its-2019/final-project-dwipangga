@@ -163,7 +163,7 @@ P: Participant, M1: Deddy, M2: Akmal, M3: Dennas
  #### b. Transcript with Participant 3
 ```
 1. M2: Sekarang kamu coba buka website Viraindo, terus cariin aku laptop HP tipe Elitebook yang paling murah
-2. P: Udah ketemu, HP Elitebook 2560P - Ex Display (Intel Core i5 2520M, 2.5 Ghz up to 3.2 Ghz, Wifi, DDR3 4 GB, HDD 500 GB Sata, LCD 12.1'', DVD-RW, Vga Intel, Card Reader, Camera, Windows 7 Profesional) 4.850.000
+2. P: Udah ketemu, HP Elitebook 2560P Ex Display 4.850.000
 3. M2: Udah ketemu kan? Sekarang, coba cariin optical drive internal, harus bluray combo, tapi harganya juga murah
 4. P: Bentar ya.......
 5. P: Ketemu, BluRay Combo Samsung 730.000

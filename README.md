@@ -55,14 +55,21 @@ things that can be used get go.
 #### a. Description of Participant 1
 - A Male Student
 - 21 Years Old
-- Study at ITS, Departement of Physics
+- Study at ITS, Departement of Physics (2016)
 - Medium-Low level of IT Knowledge
 
 #### b. Description of Participant 2
 - A Male Student
 - 21 Years Old
-- Study at ITS, Departement of Information Sistems
+- Study at ITS, Departement of Information Sistems (2016)
 - Medium-High level of IT Knowledge
+
+#### c. Description of Participant 3
+- A Male Student
+- 21 Years Old
+- Study at ITS, Departement of Informatics (2016)
+- Medium-High level of IT Knowledge
+
 
 ### 2. Evaluation Script
 1. User searching some parts in Viraindo
@@ -107,7 +114,7 @@ P: Participant, M1: Deddy, M2: Akmal, M3: Dennas
 28. P: Bukannya HPmu baru ya?
 29. M2: Nggak udah dua tahun. Nah ketemu, sekarang kamu nyari Hard Disk External 1 TB, ukuran berapapun, merek apapun, tapi yang harganya paling murah
 <Searching>
-30. P: Aku dah nemu nih...... A Data HV 020 USB 3.0 harganya 670 ribu
+30. P: Aku dah nemu nih...... A Data HV620 USB 3.0 harganya 670 ribu
 31. M2: Sekarang ku tanya, itu tulisannya di bold apa gak
 32. P: Nggak
 33. M2: Kalau yang dibold paling murah
@@ -151,6 +158,23 @@ P: Participant, M1: Deddy, M2: Akmal, M3: Dennas
 28. M1: Masih mau nyelesaikan tugas ini?
 29. P: Gak deh, NYERAHHHHH. Mataku udah sakit tadi
 30. M1: Oke
+ ```
+
+ #### b. Transcript with Participant 3
+```
+1. M2: Sekarang kamu coba buka website Viraindo, terus cariin aku laptop HP tipe Elitebook yang paling murah
+2. P: Udah ketemu, HP Elitebook 2560P - Ex Display (Intel Core i5 2520M, 2.5 Ghz up to 3.2 Ghz, Wifi, DDR3 4 GB, HDD 500 GB Sata, LCD 12.1'', DVD-RW, Vga Intel, Card Reader, Camera, Windows 7 Profesional) 4.850.000
+3. M2: Udah ketemu kan? Sekarang, coba cariin optical drive internal, harus bluray combo, tapi harganya juga murah
+4. P: Bentar ya.......
+5. P: Ketemu, BluRay Combo Samsung 730.000
+6. M2: Sekarang terakhir, cariin aku HDD External 1 TB tapi dengan harga yang paling murah.....
+<Searching>
+7. P: Harus ya eksternal? Prettt dah susah buanget :D
+8. M2: Iya dong
+9. P: Adata HV620 1TB USB 3.0 670.000
+10. M2: Mantap, setelah itu menurutmu website ini gimana?
+11. P: Feedback ya, ya kayak brosur raksasa. Harusnya sih dibuat data yang bisa difilter (Contoh: Kalau laptop bisa difilter dengan hardware dan mereknya). Sama sorting dari harga juga
+12. M2: Okedeh
  ```
 
 ### 4. Feedback and Incidence Analysis

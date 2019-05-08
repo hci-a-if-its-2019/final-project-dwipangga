@@ -2,7 +2,7 @@
 
 Welcome to **_Crappy Design Project_**, yet another HCI final project.
 
-![Crappy Banner](img/banner.png)
+![Crappy Banner](https://raw.githubusercontent.com/hci-a-if-its-2019/final-project-dwipangga/master/img/banner.png)
 **Crappy Design Project** is brought to you by Dwipangga. We will ~~_talk_~~ criticize a website with ~~_crappy_~~ **bad** design which significantly affects the user while interacting with the website. 
 
 Sounds boring? Okay, we admit it :)
@@ -53,25 +53,104 @@ things that can be used get go.
 ### 1. Brief Description of Participants
 
 #### a. Description of Participant 1
-
+- A Male Student
+- 21 Years Old
+- Study at ITS, Departement of Physics
+- Medium-Low level of IT Knowledge
 
 #### b. Description of Participant 2
-
+- A Male Student
+- 21 Years Old
+- Study at ITS, Departement of Information Sistems
+- Medium-High level of IT Knowledge
 
 ### 2. Evaluation Script
 1. User searching some parts in Viraindo
 2. User searching the most cheapest 1 TB External Hard Drive 
 
 ### 3. Transcript
+```
+Note:
+P: Participant, M1: Deddy, M2: Akmal, M3: Dennas
+```
 
 #### a. Transcript with Participant 1
 ```
-asasasas
+1. M2: Kamu tau website Viraindo.com gak?
+2. P: Apa?
+3. M2: Viraindo.com
+4. P: Wah, aku gak tau. Kayaknya belum pernah denger aku
+5. M2: Nah, website viraindo.com itu buat ngecek2 harga yang berhubungan dengan komputer dan HP. Nah, sekarang kamu coba buka website Viraindo.com di HP mu
+6. <Some talks>
+7. P: Oalah ini, ini kok websitenya.... Vira Jaya Komputer ya ini?
+8. M2: Nah bener, sekarang ku kasih tugas. Coba kamu cari harga monitor merek Asus tapi yang terkecil dan biasa dan termurah harganya berapa?
+9. P: Adanya 15,6 inci
+10. M2: Benar
+11. P: Ya sudah, sudah ketemu kan? Benar kan harganya 795 ribu yang paling murah?
+12. M2: Lho aku salah lihat, Tadi apa? Layar ya?
+13. P: Ya, layar
+14. M2: Depannya selalu diawali dengan merek kan?
+15. P: Iya
+16. P: Nah ini sudah ketemu, 795 ribu
+17. M2: Nah sip, sekarang kamu cari keyboard wireless yang paling murah harganya berapa dan mereknya apa?
+18. P: Keyboard, oke... berati masuknya di..... keyboard dan mouse
+<Searching>
+19. P: Sudah ketemu
+20. M2: Mereknya apa dan harganya berapa?
+21. P: Logitech M238 60rb
+22. M2: Oke.....
+23. P: Yang harganya 170rb ya? Oh kamu lihatnya mouse ya..... yang bener keyboard
+24. M2: Oh iya, tak kira mouse biasa, ternyata yang wireless...
+25. M2: Padahal, kalau kamu nyari mouse wireless paling murah bener logitech tapi harganya 110rb
+26. P: Oalah ini tah, Logitech M170
+27. M2: Satu lagi...... Coba kamu cari laptop.... Jangan deh setelah dibuka ternyata berat di HP
+28. P: Bukannya HPmu baru ya?
+29. M2: Nggak udah dua tahun. Nah ketemu, sekarang kamu nyari Hard Disk External 1 TB, ukuran berapapun, merek apapun, tapi yang harganya paling murah
+<Searching>
+30. P: Aku dah nemu nih...... A Data HV 020 USB 3.0 harganya 670 ribu
+31. M2: Sekarang ku tanya, itu tulisannya di bold apa gak
+32. P: Nggak
+33. M2: Kalau yang dibold paling murah
+34. P: Harganya 760rb ya? Merek WDC
+35. M2: Iya, sekarang ku tanyain. Feedback darisini apa?
+36. P: Menurutku tampilannya rumit buanget. Nah kan disini lihatnya kyk gambar, karena ini kyk satu gambar jadi kalau dilihat pakai HP kan susah banget. Belum mbesarinnya, belum geser2nya, belum lagi kalau mau komparasi antar barang lah. Maksudnya ini lengkap tapi secara visualisasinya rumit
+37. M2: Dari situ kamu bisa gak ngeliat barang yg ready stock mana tanpa kamu tanyain ke CS nya
+38. P: Saya rasa sih nggak
+39. M2: Yaudah, itu aja yaaa......
 ```
 
 #### b. Transcript with Participant 2
 ```
-asasasasa
+1. M1: Sekarang coba kamu nyari HDD External 1 TB yang paling murah
+2. P: Ini bukan?
+3. M1: Itu external bukan? Aku bilang apa, HDD External paling murah 1 TB
+4. P: Ini ya, bukan. Apaan kok terlalu sini, harusnya dibawah lah biar gak salah paham
+5. P: 5 Juta, duh bingung gue
+6. P: Kan, yang ada malah 3. Duh pusing banget
+7. P: Gak ada searchboxnya ya?
+8. M1: Itu bukan situs kita ya...
+9. M2: Itu situsnya orang lain....
+10. P: Ini apa? Apakah harus external
+11. M2: Hmm.... gimana ya.....
+12. P: Ya begitulah, tapi semuanya gak konsisten. Harusnya ditaruh bawah aja jangan di wrap terus dipertegas pembatasnya biar gak bingung
+13. M1: Sudah menemukan?
+14. P: Masih bingung, awalnya ku lihat ini eksternal, tapi gak konsisten sih
+15. M1: Iya sih, tapi lakukan aja
+16. P: Tuh kan harus geser2 lagi, padahal kalau disatuin kan enak gak perlu geser2
+17. M1: Sudah menemukan kah?
+18. P: Gak inget tapi tadi ketemu 8jt
+19. M1: Yaudah deh, jangan SSD tapi harddisk biasa aja, kan SSD mahal
+20. P: Well, cara bedainnya gimana? Soalnya kan gak diwrap jadi satu
+21. M1: Ya scroll aja, siapa tau diamana?
+22. P: Ini sih aku nemu 960 GB harganya nyaris 7jt
+23. M1: Bener sih cuma bukan itu yang yang kuinginkan
+24. P: Sumpah bikin sakit mata gara2 ngeliat websitenya kyk gini
+25. M2: HUAHAHAHAHAHAHAHA
+26. P: Kalau dibahas kyk marketplace lain kan ada harga, ada gambar.... Tapi belum tau ini eksternal apa internal kadang. Dan ada search boxnya pula. Bingo, kyk ini kan? Kan enak dilihat klu kyk gini daripada lihat tabel bikin sakit mata. Yang itu kamu harus ngezoom terus kalau di marketplace lain satu produk udah satu halaman dan harganya udah ketahuan juga
+27. M1: Nah, seperti itulah yang ku mau
+28. M1: Masih mau nyelesaikan tugas ini?
+29. P: Gak deh, NYERAHHHHH. Mataku udah sakit tadi
+30. M1: Oke
  ```
 
 ### 4. Feedback and Incidence Analysis
@@ -83,7 +162,7 @@ asasasasa
  - **Reference**: abcde
  - **Feedback**: abcde
  - **Incidence**: abcde
- - **Reason**: abcde
+- **Reason**: abcde
  - **Resolution**: abcde
 
 

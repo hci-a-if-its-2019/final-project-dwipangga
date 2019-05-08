@@ -38,12 +38,55 @@ Can you guess it? No idea? Ok, we will introduce it for you.
 >
 >Many people, if want to buy computer parts and laptop, they refrence to this website (Because, in Viraindo, they show the price and the specifications (in Laptop section) with clear and many brands and types of Laptop showed on that website. And some of the person who gives recomendation on the Consultant of Notebook Specification forum in one of largest web forum in Indonesia, many of them using Viraindo website to give a recomendation to which was asking on this forum because of the lot of brands and clear specification to show it with reasonable price)
 
- ##Why viraindo design is bad?
+## Why viraindo design is bad?
 1. Layout,The overall layout of the website is misplaced as contact info and such should be placed on bottom but this placed on the header and there is many thing beside that
 2. The category tab,Category tab doesn't explain anything and lack information which in this case which belong to software ,hardware and
 things that can be used get go.
 3. Ads is located at the bottom and takes of 30% website and takes too much quota to load.
 4. The list ,when you press and redirect you to list of product you can't sort it in any way which make it hassle to find specific product.
 5. Bad mobile Optimization.
+
+---
+
+## Part A: Usability Evaluation
+
+### 1. Brief Description of Participants
+
+#### a. Description of Participant 1
+
+
+#### b. Description of Participant 2
+
+
+### 2. Evaluation Script
+1. User searching some parts in Viraindo
+2. User searching the most cheapest 1 TB External Hard Drive 
+
+### 3. Transcript
+
+#### a. Transcript with Participant 1
+```
+asasasas
+```
+
+#### b. Transcript with Participant 2
+```
+asasasasa
+ ```
+
+### 4. Feedback and Incidence Analysis
+> Record your observations per prototype screen followed by reference, feedback, incidence, reason, and resolution.
+
+#### OBSERVATION 1
+![Prototype Screen 1](asasasasas)
+
+ - **Reference**: abcde
+ - **Feedback**: abcde
+ - **Incidence**: abcde
+ - **Reason**: abcde
+ - **Resolution**: abcde
+
+
+ ---
 
 `Please come again later for more updates on this project.`

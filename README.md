@@ -38,7 +38,32 @@ Can you guess it? No idea? Ok, we will introduce it for you.
 >
 >Many people, if want to buy computer parts and laptop, they refrence to this website (Because, in Viraindo, they show the price and the specifications (in Laptop section) with clear and many brands and types of Laptop showed on that website. And some of the person who gives recomendation on the Consultant of Notebook Specification forum in one of largest web forum in Indonesia, many of them using Viraindo website to give a recomendation to which was asking on this forum because of the lot of brands and clear specification to show it with reasonable price)
 
+## Table of Content
+
+Okay, if you want to know the overview what will we talk here, here is some `generic` Table of Content:
+
+- [Crappy Design Project](#crappy-design-project)
+  - [Team Members:](#team-members)
+  - [Our Target](#our-target)
+  - [Table of Content](#table-of-content)
+  - [Why viraindo design is bad?](#why-viraindo-design-is-bad)
+  - [Part A: Let's Evaluate The Usability of The Target](#part-a-lets-evaluate-the-usability-of-the-target)
+    - [1. Know Our Participants](#1-know-our-participants)
+      - [a. Description of Participant 1](#a-description-of-participant-1)
+      - [b. Description of Participant 2](#b-description-of-participant-2)
+      - [c. Description of Participant 3](#c-description-of-participant-3)
+    - [2. What our participant should do?](#2-what-our-participant-should-do)
+    - [3. Transcript](#3-transcript)
+      - [a. Transcript with Participant 1](#a-transcript-with-participant-1)
+      - [b. Transcript with Participant 2](#b-transcript-with-participant-2)
+    - [4. Feedback and Incidence Analysis](#4-feedback-and-incidence-analysis)
+      - [Observation of Participant 1](#observation-of-participant-1)
+      - [Observation of Participant 2](#observation-of-participant-2)
+      - [Observation of Participant 3](#observation-of-participant-3)
+  - [- **Resolution**: abcde](#resolution-abcde)
+
 ## Why viraindo design is bad?
+
 1. Layout,The overall layout of the website is misplaced as contact info and such should be placed on bottom but this placed on the header and there is many thing beside that
 2. The category tab,Category tab doesn't explain anything and lack information which in this case which belong to software ,hardware and
 things that can be used get go.
@@ -48,34 +73,43 @@ things that can be used get go.
 
 ---
 
-## Part A: Usability Evaluation
+## Part A: Let's Evaluate The Usability of The Target
 
-### 1. Brief Description of Participants
+### 1. Know Our Participants
+
+Let we introduce some people that kind enough to help our task.
 
 #### a. Description of Participant 1
 - A Male Student
 - 21 Years Old
 - Study at ITS, Departement of Physics (2016)
-- Medium-Low level of IT Knowledge
+- Relatively medium level of IT Knowledge
 
 #### b. Description of Participant 2
 - A Male Student
 - 21 Years Old
-- Study at ITS, Departement of Information Sistems (2016)
-- Medium-High level of IT Knowledge
+- Study at ITS, Departement of Information System (2016)
+- Relatively advanced level of IT Knowledge
 
 #### c. Description of Participant 3
-- A Male Student
+- A Male Student <!-- Who is this? -->
 - 21 Years Old
 - Study at ITS, Departement of Informatics (2016)
-- Medium-High level of IT Knowledge
+- Relatively advanced level of IT Knowledge
 
 
-### 2. Evaluation Script
-1. User searching some parts in Viraindo
-2. User searching the most cheapest 1 TB External Hard Drive 
+### 2. What our participant should do?
+
+Here is some ~~extremely torturing~~ tasks that we will ask the participant to do it.
+
+1. Please search a computer part in Viraindo. (The computer part can be anything depend on innterviewer)
+2. Please search some other computer parts in Viraindo
+(if the time still enough)
 
 ### 3. Transcript
+
+Just yet another generic transcript. Consider to read it if you're interested how ~~sad~~ our participants complete the tasks.
+
 ```
 Note:
 P: Participant, M1: Deddy, M2: Akmal, M3: Dennas
@@ -178,18 +212,35 @@ P: Participant, M1: Deddy, M2: Akmal, M3: Dennas
  ```
 
 ### 4. Feedback and Incidence Analysis
-> Record your observations per prototype screen followed by reference, feedback, incidence, reason, and resolution.
 
-#### OBSERVATION 1
-![Prototype Screen 1](asasasasas)
+Let's summarize how the participant's reaction during interview...
+
+#### Observation of Participant 1
+![Screen 1](/img/under_construction.png)
 
  - **Reference**: abcde
  - **Feedback**: abcde
  - **Incidence**: abcde
-- **Reason**: abcde
+ - **Reason**: abcde
  - **Resolution**: abcde
 
+#### Observation of Participant 2
+![Screen 1](/img/under_construction.png)
 
+ - **Reference**: abcde
+ - **Feedback**: abcde
+ - **Incidence**: abcde
+ - **Reason**: abcde
+ - **Resolution**: abcde
+
+#### Observation of Participant 3
+![Screen 1](/img/under_construction.png)
+
+ - **Reference**: abcde
+ - **Feedback**: abcde
+ - **Incidence**: abcde
+ - **Reason**: abcde
+ - **Resolution**: abcde
  ---
 
 `Please come again later for more updates on this project.`

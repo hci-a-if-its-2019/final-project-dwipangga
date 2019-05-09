@@ -264,6 +264,10 @@ Let's summarize how the participant's reaction during interview...
  - **Reason**: The UI was too painful and too heavy especially if we open with smartphone whick have medium to low specs (The participant phone is using Samsung Galaxy J1 which is not too fast)
  - **Resolution**: Changed the UI from scratch. And make sure it's friendly for the low spec smartphones and computers
 
+ ### Flow Model:
+ ![Screen 1](/img/Model1.png)
+
+
 #### Observation of Participant 2
 ![Screen 1](/img/participant_2.png)
 
@@ -272,6 +276,9 @@ Let's summarize how the participant's reaction during interview...
  - **Incidence**: N/A
  - **Reason**: N/A
  - **Resolution**: Redesign everything from scratch. Add search function, Fit the content to user's screen
+
+ ### Flow Model:
+ ![Screen 1](/img/Model2.png)
 
 #### Observation of Participant 3
 ![Screen 1](/img/participant_3.png)

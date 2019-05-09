@@ -92,11 +92,16 @@ Let we introduce some people that kind enough to help our task.
 - Relatively advanced level of IT Knowledge
 
 #### c. Description of Participant 3
-- A Male Student <!-- Who is this? -->
+- A Male Student
 - 21 Years Old
 - Study at ITS, Departement of Informatics (2016)
 - Relatively advanced level of IT Knowledge
 
+#### d. Description of Participant 4
+- A Male Student
+- 22 Years Old
+- Study at ITS, Departement of Information System (2015)
+- Relatively advanced level of IT Knowledge
 
 ### 2. What our participant should do?
 

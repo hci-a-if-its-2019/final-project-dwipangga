@@ -276,20 +276,29 @@ Let's summarize how the participant's reaction during interview...
 #### Observation of Participant 3
 ![Screen 1](/img/participant_3.png)
 
+<<<<<<< HEAD
  - **Reference**: Line 11
  - **Feedback**: The interface just like a giant brochure, cannot filtered with many things (Example: If we searching laptop, we cannot filtered from hardware, type, etc. And we cannot filtered from type and cannot sort the price too)
  - **Incidence**: N/A
  - **Reason**: N/A
  - **Resolution**: Changed the UI from scratch. And make sure add the filter option
+=======
+ - **Reference**: To be filled
+ - **Feedback**: To be filled
+ - **Incidence**: To be filled
+ - **Reason**: To be filled
+ - **Resolution**: To be filled
+>>>>>>> master
 
 #### Observation of Participant 4
-![Screen 1](/img/under_construction.png)
+![Screen 1](/img/participant_4_1.png)
+![Screen 2](/img/participant_4_2.png)
 
- - **Reference**: abcde
- - **Feedback**: abcde
- - **Incidence**: abcde
- - **Reason**: abcde
- - **Resolution**: abcde
+ - **Reference**: Line 3, 7, 17, 21, 26
+ - **Feedback**: Too complicated (3), Interface not proportional (7), Font too small (7), No description betweeb bold and normal font (7), No search button (21), Found unwanted thing (17), Interface looks like excel.
+ - **Incidence**: N/A
+ - **Reason**: N/A
+ - **Resolution**: Redesign everything from scratch. Add search function, Make the interface more proportional, Clearer categorization.
 
 ---
 

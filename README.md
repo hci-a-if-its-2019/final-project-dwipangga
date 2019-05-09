@@ -194,7 +194,7 @@ P: Participant, M1: Deddy, M2: Akmal, M3: Dennas
 30. M1: Oke
  ```
 
- #### b. Transcript with Participant 3
+ #### c. Transcript with Participant 3
 ```
 1. M2: Sekarang kamu coba buka website Viraindo, terus cariin aku laptop HP tipe Elitebook yang paling murah
 2. P: Udah ketemu, HP Elitebook 2560P Ex Display 4.850.000
@@ -210,6 +210,37 @@ P: Participant, M1: Deddy, M2: Akmal, M3: Dennas
 11. P: Feedback ya, ya kayak brosur raksasa. Harusnya sih dibuat data yang bisa difilter (Contoh: Kalau laptop bisa difilter dengan hardware dan mereknya). Sama sorting dari harga juga
 12. M2: Okedeh
  ```
+ #### d. Transcript with Participant 4
+```
+1. M1: Jadi, ini ada situs namanya viraindo.com, Coba masnya di situs ini cari harga HDD External 1 TB yang paling murah
+2. M2: Dan bukan SSD
+3. P: Ribet banget, website apa ini? Nyerah nyerah nyerah
+4. M1: Komentar aja gpp
+5. M2: Komentar sepuasnya mas gpp
+6. P: Jadi komentar saya dikasih case ini dan saya cek harganya. Ternyata saya disuguhkan dengan interface website yang gak manusiawi. Kenapa gak manusiawi? Meskipun yang matanya normal seperti saya juga akan merasa kesulitan. Interfacenya tidak baku, sangat tidak proporsional, fontnya juga, ini ada bold dan tidak dan blablabla gak ada keterangannya. Pokoknya perlu perbaikan besar-besaran di UInya lah
+7. M1: Iya mas. Untuk masnya bisa menemukan kan untuk di web ini?
+8. P: Non SSD kan?
+9. M1: Iya, non SSD 1 TB yang paling murah dan eksternal
+10. P: Ini nyari sampai ketemu kan? Aku ingin menyerah sumpah, udah pedas mataku
+11. P: Adanya 1 juta lebih
+12. M2: Gimana mas? Nyerah kah?
+13. P: Nyerah aku
+14. M2: Yaudah, tak kasih yang gampang aja. Coba cari Printer Laserjet yang paling murah merek apa saja gak ada ketentuan itu warna atau hitam putih
+15. P: Laserjet? Itu mereknya?
+16. M2: Itu jenis. Bukan mereknya. Ya mereknya bebas pokoknya paling murah
+17. P: Apa nih harga 300rb? Kertas canon
+18. M2 & M1: HWAHAHAHAHAHAHA
+19. P: Tadi nemu 500rb. Itu nemunya gimana sih?
+20. M2: Biasanya ada keterangannya
+21. P: Gak ada tombol searchnya kan?
+22. M2: Gimana ya....
+23. P: Nemu, HP 200rb nemu nih
+24. M2: Hmm.... okelah....
+25. M1: Sudah berhasil ya.... Silahkan bisa komentar mas
+26. P: Tetap seperti tadi, UInya terlalu tidak fit dengan layar. Kalau kyk gini kelihatan kayak excel. Kalau bisa lebih dimudahkan ada fitur search by sama sorting. Pokoknya lebih diperbaiki lagi lah mengikuti kaidah UI dan UX
+27. M2: Yaudah itu aja ya mas.... Makasih
+```
+
 
 ### 4. Feedback and Incidence Analysis
 

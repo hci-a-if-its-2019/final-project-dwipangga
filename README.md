@@ -276,19 +276,11 @@ Let's summarize how the participant's reaction during interview...
 #### Observation of Participant 3
 ![Screen 1](/img/participant_3.png)
 
-<<<<<<< HEAD
  - **Reference**: Line 11
  - **Feedback**: The interface just like a giant brochure, cannot filtered with many things (Example: If we searching laptop, we cannot filtered from hardware, type, etc. And we cannot filtered from type and cannot sort the price too)
  - **Incidence**: N/A
  - **Reason**: N/A
  - **Resolution**: Changed the UI from scratch. And make sure add the filter option
-=======
- - **Reference**: To be filled
- - **Feedback**: To be filled
- - **Incidence**: To be filled
- - **Reason**: To be filled
- - **Resolution**: To be filled
->>>>>>> master
 
 #### Observation of Participant 4
 ![Screen 1](/img/participant_4_1.png)

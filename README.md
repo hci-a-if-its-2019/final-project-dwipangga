@@ -52,15 +52,17 @@ Okay, if you want to know the overview what will we talk here, here is some `gen
       - [a. Description of Participant 1](#a-description-of-participant-1)
       - [b. Description of Participant 2](#b-description-of-participant-2)
       - [c. Description of Participant 3](#c-description-of-participant-3)
+      - [d. Description of Participant 4](#d-description-of-participant-4)
     - [2. What our participant should do?](#2-what-our-participant-should-do)
     - [3. Transcript](#3-transcript)
       - [a. Transcript with Participant 1](#a-transcript-with-participant-1)
       - [b. Transcript with Participant 2](#b-transcript-with-participant-2)
+      - [d. Transcript with Participant 4](#d-transcript-with-participant-4)
     - [4. Feedback and Incidence Analysis](#4-feedback-and-incidence-analysis)
       - [Observation of Participant 1](#observation-of-participant-1)
       - [Observation of Participant 2](#observation-of-participant-2)
       - [Observation of Participant 3](#observation-of-participant-3)
-  - [- **Resolution**: abcde](#resolution-abcde)
+      - [Observation of Participant 4](#observation-of-participant-4)
 
 ## Why viraindo design is bad?
 
@@ -199,7 +201,7 @@ P: Participant, M1: Deddy, M2: Akmal, M3: Dennas
 30. M1: Oke
  ```
 
- #### c. Transcript with Participant 3
+#### c. Transcript with Participant 3
 ```
 1. M2: Sekarang kamu coba buka website Viraindo, terus cariin aku laptop HP tipe Elitebook yang paling murah
 2. P: Udah ketemu, HP Elitebook 2560P Ex Display 4.850.000
@@ -215,7 +217,9 @@ P: Participant, M1: Deddy, M2: Akmal, M3: Dennas
 11. P: Feedback ya, ya kayak brosur raksasa. Harusnya sih dibuat data yang bisa difilter (Contoh: Kalau laptop bisa difilter dengan hardware dan mereknya). Sama sorting dari harga juga
 12. M2: Okedeh
  ```
- #### d. Transcript with Participant 4
+
+#### d. Transcript with Participant 4
+
 ```
 1. M1: Jadi, ini ada situs namanya viraindo.com, Coba masnya di situs ini cari harga HDD External 1 TB yang paling murah
 2. M2: Dan bukan SSD
@@ -261,13 +265,13 @@ Let's summarize how the participant's reaction during interview...
  - **Resolution**: abcde
 
 #### Observation of Participant 2
-![Screen 1](/img/under_construction.png)
+![Screen 1](/img/participant_2.png)
 
- - **Reference**: abcde
- - **Feedback**: abcde
- - **Incidence**: abcde
- - **Reason**: abcde
- - **Resolution**: abcde
+ - **Reference**: Line 4, 7, 12, 14, 16, 24
+ - **Feedback**: Confuses about the price location (4), No search function (7), Unclear separator (12), Inconsistent grouping (14), Have to scroll horizontally (16), The interface too painful to see (24)
+ - **Incidence**: N/A
+ - **Reason**: N/A
+ - **Resolution**: Redesign everything from scratch. Add search function, Fit the content to user's screen
 
 #### Observation of Participant 3
 ![Screen 1](/img/under_construction.png)
@@ -277,6 +281,16 @@ Let's summarize how the participant's reaction during interview...
  - **Incidence**: abcde
  - **Reason**: abcde
  - **Resolution**: abcde
- ---
+
+#### Observation of Participant 4
+![Screen 1](/img/under_construction.png)
+
+ - **Reference**: abcde
+ - **Feedback**: abcde
+ - **Incidence**: abcde
+ - **Reason**: abcde
+ - **Resolution**: abcde
+
+---
 
 `Please come again later for more updates on this project.`

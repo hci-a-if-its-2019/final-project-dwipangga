@@ -288,6 +288,8 @@ Let's summarize how the participant's reaction during interview...
  - **Incidence**: N/A
  - **Reason**: N/A
  - **Resolution**: Changed the UI from scratch. And make sure add the filter option
+  ### Flow Model:
+ ![Screen 1](/img/Model3.png)
 
 #### Observation of Participant 4
 ![Screen 1](/img/participant_4_1.png)
@@ -298,7 +300,8 @@ Let's summarize how the participant's reaction during interview...
  - **Incidence**: N/A
  - **Reason**: N/A
  - **Resolution**: Redesign everything from scratch. Add search function, Make the interface more proportional, Clearer categorization.
-
+ ### Flow Model:
+ ![Screen 1](/img/Model4.png)
 ---
 
 `Please come again later for more updates on this project.`

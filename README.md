@@ -256,13 +256,13 @@ P: Participant, M1: Deddy, M2: Akmal, M3: Dennas
 Let's summarize how the participant's reaction during interview...
 
 #### Observation of Participant 1
-![Screen 1](/img/under_construction.png)
+![Screen 1](https://raw.githubusercontent.com/hci-a-if-its-2019/final-project-dwipangga/master/img/Screenshot_20190509-101946.jpg)
 
- - **Reference**: abcde
- - **Feedback**: abcde
- - **Incidence**: abcde
- - **Reason**: abcde
- - **Resolution**: abcde
+ - **Reference**: Line 36 and 38
+ - **Feedback**: There is very lot of product. But, the visualization is very confusing and it's very tricky for searching something on this website especially from smartphone (36) (Note: The Participant test this website using smartphone). No footnotes about the product. Where the product is ready, or out of stock, or must order first (38)
+ - **Incidence**: After searching the mouse and keyboard, i want to add the task about searching some laptop. But, it's cancelled because the participant smartphone was freezed and stucked
+ - **Reason**: The UI was too painful and too heavy especially if we open with smartphone whick have medium to low specs (The participant phone is using Samsung Galaxy J1 which is not too fast)
+ - **Resolution**: Changed the UI from scratch. And make sure it's friendly for the low spec smartphones and computers
 
 #### Observation of Participant 2
 ![Screen 1](/img/participant_2.png)

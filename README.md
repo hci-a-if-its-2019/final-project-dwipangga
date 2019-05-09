@@ -11,7 +11,7 @@ Let's add some boreness level by introducing ourselves in boring way.
 
 ## Team Members:
 
-[//]: # (Seriously, I will change this whole introduction chapter later, with a BANG :v)
+<!-- Seriously, I will change this whole introduction chapter later, with a BANG :v -->
 
 > Name: Akmal Darari Rafif Baskoro  
 > NRP: 05111640000148  
@@ -60,9 +60,20 @@ Okay, if you want to know the overview what will we talk here, here is some `gen
       - [d. Transcript with Participant 4](#d-transcript-with-participant-4)
     - [4. Feedback and Incidence Analysis](#4-feedback-and-incidence-analysis)
       - [Observation of Participant 1](#observation-of-participant-1)
+        - [Flow Model:](#flow-model)
       - [Observation of Participant 2](#observation-of-participant-2)
+        - [Flow Model:](#flow-model-1)
       - [Observation of Participant 3](#observation-of-participant-3)
+        - [Flow Model:](#flow-model-2)
       - [Observation of Participant 4](#observation-of-participant-4)
+        - [Flow Model:](#flow-model-3)
+    - [5. Do and Don't](#5-do-and-dont)
+      - [Consider to DO these things](#consider-to-do-these-things)
+      - [Please DON'T do these things](#please-dont-do-these-things)
+  - [Part B: Prototyping](#part-b-prototyping)
+    - [1. Sketch](#1-sketch)
+    - [2. Design Rationale](#2-design-rationale)
+    - [3. High-Fidelity Interactive-Prototype](#3-high-fidelity-interactive-prototype)
 
 ## Why viraindo design is bad?
 
@@ -123,6 +134,7 @@ P: Participant, M1: Deddy, M2: Akmal, M3: Dennas
 ```
 
 #### a. Transcript with Participant 1
+
 ```
 1. M2: Kamu tau website Viraindo.com gak?
 2. P: Apa?
@@ -168,6 +180,7 @@ P: Participant, M1: Deddy, M2: Akmal, M3: Dennas
 ```
 
 #### b. Transcript with Participant 2
+
 ```
 1. M1: Sekarang coba kamu nyari HDD External 1 TB yang paling murah
 2. P: Ini bukan?
@@ -202,6 +215,7 @@ P: Participant, M1: Deddy, M2: Akmal, M3: Dennas
  ```
 
 #### c. Transcript with Participant 3
+
 ```
 1. M2: Sekarang kamu coba buka website Viraindo, terus cariin aku laptop HP tipe Elitebook yang paling murah
 2. P: Udah ketemu, HP Elitebook 2560P Ex Display 4.850.000
@@ -262,9 +276,9 @@ Let's summarize how the participant's reaction during interview...
  - **Feedback**: There is very lot of product. But, the visualization is very confusing and it's very tricky for searching something on this website especially from smartphone (36) (Note: The Participant test this website using smartphone). No footnotes about the product. Where the product is ready, or out of stock, or must order first (38)
  - **Incidence**: After searching the mouse and keyboard, i want to add the task about searching some laptop. But, it's cancelled because the participant smartphone was freezed and stucked
  - **Reason**: The UI was too painful and too heavy especially if we open with smartphone whick have medium to low specs (The participant phone is using Samsung Galaxy J1 which is not too fast)
- - **Resolution**: Changed the UI from scratch. And make sure it's friendly for the low spec smartphones and computers
+ - **Resolution**: Changed the UI from scratch. And make sure it's friendly for the low spec smartphones and computers.
 
- ### Flow Model:
+##### Flow Model:
  ![Screen 1](/img/Model1.png)
 
 
@@ -277,7 +291,7 @@ Let's summarize how the participant's reaction during interview...
  - **Reason**: N/A
  - **Resolution**: Redesign everything from scratch. Add search function, Fit the content to user's screen
 
- ### Flow Model:
+##### Flow Model:
  ![Screen 1](/img/Model2.png)
 
 #### Observation of Participant 3
@@ -288,7 +302,8 @@ Let's summarize how the participant's reaction during interview...
  - **Incidence**: N/A
  - **Reason**: N/A
  - **Resolution**: Changed the UI from scratch. And make sure add the filter option
-  ### Flow Model:
+
+##### Flow Model:
  ![Screen 1](/img/Model3.png)
 
 #### Observation of Participant 4
@@ -299,9 +314,34 @@ Let's summarize how the participant's reaction during interview...
  - **Feedback**: Too complicated (3), Interface not proportional (7), Font too small (7), No description betweeb bold and normal font (7), No search button (21), Found unwanted thing (17), Interface looks like excel.
  - **Incidence**: N/A
  - **Reason**: N/A
- - **Resolution**: Redesign everything from scratch. Add search function, Make the interface more proportional, Clearer categorization.
- ### Flow Model:
- ![Screen 1](/img/Model4.png)
----
+ - **Resolution**: Redesign everything from scratch. Add search, sort, and filtering function, Make the interface more proportional, Clearer categorization.
 
+##### Flow Model:
+ ![Screen 1](/img/Model4.png)
+
+### 5. Do and Don't
+
+#### Consider to DO these things
+- Do consider to add some empty spaces on the webpage.
+- Do consider to add pagination on table instead show all the resource at one table
+
+#### Please DON'T do these things
+- Don't put too much information in one page.
+- Don't use a very small font for content.
+- Don't use the non-responsive design because the interface will looks awful on mobile.
+
+---
+## Part B: Prototyping
+
+### 1. Sketch
+<!-- TODO: add some sketch -->
+
+### 2. Design Rationale
+> There will be some paragraph here...
+
+### 3. High-Fidelity Interactive-Prototype
+
+The high-fidelity prototype can be accessed [here](#link-to-prototype)
+
+---
 `Please come again later for more updates on this project.`

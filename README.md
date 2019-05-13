@@ -358,7 +358,7 @@ Let's summarize how the participant's reaction during interview...
  ![Screen 1](/img/Model4.png)
 
 #### Observation of Participant 5
-![Screen 1](Screenshot_20190513-182301.jpg)
+![Screen 1](/img/Screenshot_20190513-182301.jpg)
 
  - **Reference**: Line 22 and 26
  - **Feedback**: Bad Choice of Colouring and Font (22), Inconsistency of font size (22), Fixing the layout (26).

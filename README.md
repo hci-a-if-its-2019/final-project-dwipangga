@@ -116,6 +116,12 @@ Let we introduce some people that kind enough to help our task.
 - Study at ITS, Departement of Information System (2015)
 - Relatively advanced level of IT Knowledge
 
+#### e. Description of Participant 5
+- A Female Student
+- 21 Years Old
+- Study at ITS, Departement of Information System (2016)
+- Relatively advanced level of IT Knowledge
+
 ### 2. What our participant should do?
 
 Here is some ~~extremely torturing~~ tasks that we will ask the participant to do it.
@@ -263,7 +269,39 @@ P: Participant, M1: Deddy, M2: Akmal, M3: Dennas
 26. P: Tetap seperti tadi, UInya terlalu tidak fit dengan layar. Kalau kyk gini kelihatan kayak excel. Kalau bisa lebih dimudahkan ada fitur search by sama sorting. Pokoknya lebih diperbaiki lagi lah mengikuti kaidah UI dan UX
 27. M2: Yaudah itu aja ya mas.... Makasih
 ```
+#### e. Transcript with Participant 5
 
+```
+1. M2: Sebelumnya kamu udah tau website Viraindo.com belum?
+2. P: Belum
+3. M2: Nah, website viraindo.com itu buat nyari2 harga yang berhubungan dengan komputer dan HP. Nah, sekarang kamu coba buka website Viraindo.com di HP mu
+4. P: Oalah, kayak.... tapi cuma pricelist doang ya?
+5. M2: Iya, tapi ada spesifikasinya dikit2 sih. Nah sekarang coba kamu cari website viraindo.com. Dari situ coba kamu cari harga power supply yang paling mahal tapi mereknya bukan Corsair dan Cooler Master
+6. P: Dimana ya......
+7. P: Banyak dan ribet bangetttt.............
+8. P: FSP?
+9. M2: FSP? Harganya 8,850jt bukan?
+10. P: Iya tadi
+11. M2: Ya benar, yang kedua kamu cari harga Processor Intel yang paling murah seri Coffee Lake
+12. P: Processor ya?
+13. M2: Yups
+14. P: Coffee Lake itu yang mana ya? Kayak Xeon gitu ya?
+15. M2: Bukan, itu serinya. Mau tipe Pentium, Core i3, apa Core i7 terserah. Pokoknya coffee lake yang paling murah
+16. P: Yang Intel gak ada seri Coffee Lake ya?
+17. M2: Nyerah?
+18. P: Nyerah deh
+19. M2: Sini tak kasih tau padahal ada. Coba zoom di HP mu, Ini lho
+20. P: Ealahhhh.....
+21. M2: Nah, dari dua tugas ini, ada kesimpulan dan feedback gak buat website ini
+22. P: Banyak sih. Yang pertama warna. Warnanya abu-abu dan biru dan tulisannya biru ya gak jelas banget. Yang kedua fontnya, fontnya besar kecilnya kurang pas
+23. M2: Terus?
+24. P: Yang paling penting gak ada search, paling nyulitin banget soalnya lebih enak. Jadi ya praktis tinggal search semisal pas Power Supply tadi itu ya. Terus ya bentuknya kyk list-list gitu dan tentunya buanyak banget. Jadi bikin susah. Dan tulisannya juga terlalu kecil dan gak ada filternya
+25. M2: Adalagi?
+26. P: Susunannya dirapiin dan dan layoutnya mending dibenerin lagi. Sama dikasih sedikit animasi gitu bisa gak sih?
+27. M2: Itu aja?
+28. P: Iya
+29. M2: Makasih yaaaa.........
+ ```
 
 ### 4. Feedback and Incidence Analysis
 
@@ -318,6 +356,26 @@ Let's summarize how the participant's reaction during interview...
 
 ##### Flow Model:
  ![Screen 1](/img/Model4.png)
+
+#### Observation of Participant 5
+![Screen 1](Screenshot_20190513-182301.jpg)
+
+ - **Reference**: Line 22 and 26
+ - **Feedback**: Bad Choice of Colouring and Font (22), Inconsistency of font size (22), Fixing the layout (26).
+ - **Incidence**: N/A
+ - **Reason**: N/A
+ - **Resolution**: Redesign everything from scratch. Make sure the choice of colouring and font is acceptable and the font size too (comply to UI and UX Principles), and fix the layout.
+
+![Screen 2](/img/Screenshot_20190513-182350.jpg)
+
+ - **Reference**: Line 24 and 26
+ - **Feedback**: No Search and Filter option (24), Too small font and the interface it's just only the list (24), and Layout (26).
+ - **Incidence**: N/A
+ - **Reason**: N/A
+ - **Resolution**: For the layout it's same resolution like in first participant 5 picture. We must fix it. And, we must redesign everything about the pricelist section so, it's can be more interesting and comfort to see with our eye.
+
+##### Flow Model:
+ ![Screen 1](/img/dennastolongdong)
 
 ### 5. Do and Don't
 

@@ -422,11 +422,11 @@ Let we introduce some people that kind enough to help our task.
 - Relatively advanced level of IT Knowledge
 
 #### c. Description of Participant 3
-- A Female (apa ya?)
+- A Female student
 -15 years old
--High school student
+-High schooler
 -Relatively known IT to some extend
-```
+
 
 ### 2. What our participant should do?
 

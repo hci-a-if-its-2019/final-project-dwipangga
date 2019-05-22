@@ -402,4 +402,86 @@ Let's summarize how the participant's reaction during interview...
 The high-fidelity prototype can be accessed [here](#link-to-prototype)
 
 ---
+
+## Part C: Let's Evaluate The Usability of The Target (Part 2)
+
+### 1. Know Our Participants
+
+Let we introduce some people that kind enough to help our task.
+
+#### a. Description of Participant 1
+- A Male Student
+- 21 Years Old
+- Study at ITS, Departement of Informatics (2016)
+- Relatively advanced level of IT Knowledge
+
+#### b. Description of Participant 2
+- A Male Student
+- 21 Years Old
+- Study at ITS, Departement of Informatics (2016)
+- Relatively advanced level of IT Knowledge
+
+#### c. Description of Participant 3
+```
+Dennas, tolong dong profilnya
+```
+
+### 2. What our participant should do?
+
+1. Explore the website. (The computer part can be anything depend on innterviewer)
+2. Searching part price
+
+### 3. Transcript
+
+
+```
+Note:
+P: Participant, M1: Deddy, M2: Akmal, M3: Dennas
+```
+
+#### a. Transcript with Participant 1
+
+```
+1. M2: Halo Mr. Turanzonk lovers, coba kamu cari harddisk paling murah
+2. P: Astagfirullah.......
+3. P: Apa? Harddisk
+4. M2: Iya, paling murahhhhhh
+5. P: Mana harddisk. Ini storage. Jangan bilang sort bynya gak bisa. Nih ada
+6. M2: Hitachi ya?
+7. P: Iya bener
+8. M2: Apa kesimpulanmu?
+9. P: Lebih oke dan bagus
+10. M2: Kalau misalnya coba buka cara order, menurutmu gimana?
+11. P: Hmm.... okeeeeeee......
+12. M2: Udah gak terlalu ribet kan?
+13. P: Iya, lebih nice
+14. M2: OKE DEH...... MAKASIH MR TURANZONK LOVERSSSSS :D :D :D
+
+(Note: Turanzonk Lovers is his alias name (Not his real name), it derived from Turangga+Zonk (Because the Turangga train is sometimes is having bad quality executive train with hard seat and without the window in single seat before it replaced with newer stainless steel carriage) hehehe. Just small intermezzo :) 
+```
+
+#### b. Transcript with Participant 2
+
+```
+1. M1: Silahkan buka halaman about us, dan bagaimana cara ordernya?
+2. P: Oke
+3. M1: Buka halaman pricelist, coba cari harga salah satu barang
+4. P: Oh ini
+5. M1: Bagaimana komentarnya? Coba sort harganya
+6. P: Oke.....
+7. M1: Bagaimana komentarnya?
+8. P: Filter belum bisa, searching belum bisa (Ya jelas ini prototype), Sorting oke. Pokoknya okelah. Cuma kebanyakkan masih belum keimplementasi sih
+9. M1: Ya namanya prototype jadi belum semuanya. Terus untuk desainnya gimana?
+10. P: Tiga kolom terlalu besar, dan seharusnya terlalu ketengah. Untuk kategori oke
+11. M1: Untuk home ada masalahkah?
+12. P: Gak ada masalah tapi hanya kurang menarik
+13. M1: Cara order?
+14. P: Marketing terlalu banyak, susunannya juga kurang bagus
+15. M1: Untuk About Us
+16. P: Okelah
+17. M1: Terima Kasih..... atas partisipasinya
+
+ ```
+
+ ---
 `Please come again later for more updates on this project.`

@@ -1,0 +1,925 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="vendor/css/bootstrap.min.css">
+    <link rel="stylesheet" href="vendor/css/fontawesome-all.min.css">
+    <link rel="stylesheet" href="vendor/css/dataTables.bootstrap4.min.css">
+    <link rel="stylesheet" href="css/main.css">
+    <title>Document</title>
+</head>
+<body>
+<div class="container">
+    <!-- DataTales Example -->
+    <div class="card shadow mb-4">
+        <div class="card-header py-3">
+            <h6 class="m-0 font-weight-bold text-primary">DataTables Example</h6>
+        </div>
+        <div class="card-body table-wrapper">
+            <div>
+                <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                    <thead>
+                    <tr>
+                        <th>Nama</th>
+                        <th>Harga</th>
+                    </tr>
+                    </thead>
+                    <tfoot>
+                    <tr>
+                        <th>Nama</th>
+                        <th>Harga</th>
+                    </tr>
+                    </tfoot>
+                    <tbody>
+                    <tr>
+                        <td><p>Seagate 3.5&quot; 80 GB IDE</p>
+                        </td>
+                        <td><p>80000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>Seagate 3.5&quot; 120 GB IDE</p>
+                        </td>
+                        <td><p>125000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>Seagate 3.5&quot; 160 GB IDE</p>
+                        </td>
+                        <td><p>145000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>Seagate 3.5&quot; 80 GB Sata2</p>
+                        </td>
+                        <td><p>100000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>Seagate 3.5&quot; 160 GB Sata2</p>
+                        </td>
+                        <td><p>105000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>Seagate 3.5&quot; 250 GB Sata2</p>
+                        </td>
+                        <td><p>125000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>Seagate 3.5&quot; 320 GB Sata2</p>
+                        </td>
+                        <td><p>135000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Seagate 3.5&quot; 500 GB Sata3</p>
+                        </td>
+                        <td><p>
+                            575000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Seagate 3.5&quot; 1 TB Sata3</p>
+                        </td>
+                        <td><p>
+                            610000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Seagate 3.5&quot; 1 TB Sata3 Constellation ES (Ready Stock)</p>
+                        </td>
+                        <td><p>
+                            1350000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Seagate 3.5&quot; 2 TB Sata3 (Ready Stock)</p>
+                        </td>
+                        <td><p>
+                            880000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Seagate 3.5&quot; 2 TB Sata3 Constellation ES (Ready Stock)</p>
+                        </td>
+                        <td><p>
+                            1650000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Seagate 3.5&quot; 3 TB Sata3 (Ready Stock)</p>
+                        </td>
+                        <td><p>
+                            1420000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Seagate 3.5&quot; 3 TB Sata3 Constellation ES (Ready Stock)</p>
+                        </td>
+                        <td><p>
+                            1850000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Seagate 3.5&quot; 4 TB Sata3 (Ready Stock)</p>
+                        </td>
+                        <td><p>
+                            1590000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Seagate 3.5&quot; 6 TB Sata3 Enterprise (Ready Stock)</p>
+                        </td>
+                        <td><p>
+                            2950000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Seagate 3.5&quot; 8 TB Sata3 BarraCuda Series (Ready Stock)</p>
+                        </td>
+                        <td><p>
+                            3650000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Western Digital 3.5&quot; 80 GB IDE</p>
+                        </td>
+                        <td><p>
+                            80000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Western Digital 3.5&quot; 120 GB IDE</p>
+                        </td>
+                        <td><p>
+                            95000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Western Digital 3.5&quot; 160 GB IDE</p>
+                        </td>
+                        <td><p>
+                            140000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Western Digital 3.5&quot; 320 GB IDE</p>
+                        </td>
+                        <td><p>
+                            245000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Western Digital 3.5&quot; 80 GB Sata2</p>
+                        </td>
+                        <td><p>
+                            80000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Western Digital 3.5&quot; 160 GB Sata2</p>
+                        </td>
+                        <td><p>
+                            85000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Western Digital 3.5&quot; 250 GB Sata2</p>
+                        </td>
+                        <td><p>
+                            115000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Western Digital 3.5&quot; 320 GB Sata2</p>
+                        </td>
+                        <td><p>
+                            145000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Western Digital 3.5&quot; 500 GB Sata3 Blue</p>
+                        </td>
+                        <td><p>
+                            570000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Western Digital 3.5&quot; 500 GB Sata3 Purple</p>
+                        </td>
+                        <td><p>
+                            620000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Western Digital 3.5&quot; 500 GB Sata3 Caviar Black</p>
+                        </td>
+                        <td><p>
+                            925000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Western Digital 3.5&quot; 1 TB Sata3 Blue</p>
+                        </td>
+                        <td><p>
+                            590000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Western Digital 3.5&quot; 1 TB Sata3 Purple</p>
+                        </td>
+                        <td><p>
+                            620000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Western Digital 3.5&quot; 1 TB Sata3 Caviar Black (Ready Stock)</p>
+                        </td>
+                        <td><p>
+                            980000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Western Digital 3.5&quot; 1 TB Sata3 Gold</p>
+                        </td>
+                        <td><p>
+                            1250000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Western Digital 3.5&quot; 1 TB Sata2 / Sata3 Enterprise (Ready
+                            Stock)</p>
+                        </td>
+                        <td><p>
+                            1350000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Western Digital 3.5&quot; 2 TB Sata3 Green</p>
+                        </td>
+                        <td><p>
+                            835000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Western Digital 3.5&quot; 2 TB Sata3 Blue</p>
+                        </td>
+                        <td><p>
+                            835000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Western Digital 3.5&quot; 2 TB Sata3 Purple</p>
+                        </td>
+                        <td><p>
+                            835000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Western Digital 3.5&quot; 2 TB Sata3 Red</p>
+                        </td>
+                        <td><p>
+                            1110000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Western Digital 3.5&quot; 2 TB Sata2 / Sata3 Enterprise (Ready
+                            Stock)</p>
+                        </td>
+                        <td><p>
+                            1650000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Western Digital 3.5&quot; 2 TB Sata3 Caviar Black (Ready Stock)</p>
+                        </td>
+                        <td><p>
+                            1930000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Western Digital 3.5&quot; 2 TB Sata3 NAS RE (Ready Stock)</p>
+                        </td>
+                        <td><p>
+                            1950000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Western Digital 3.5&quot; 2 TB Sata3 Gold</p>
+                        </td>
+                        <td><p>
+                            2050000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Western Digital 3.5&quot; 3 TB Sata3 Green</p>
+                        </td>
+                        <td><p>
+                            1260000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Western Digital 3.5&quot; 3 TB Sata3 Blue</p>
+                        </td>
+                        <td><p>
+                            1290000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Western Digital 3.5&quot; 3 TB Sata3 Purple</p>
+                        </td>
+                        <td><p>
+                            1300000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Western Digital 3.5&quot; 3 TB Sata3 Red</p>
+                        </td>
+                        <td><p>
+                            1420000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Western Digital 3.5&quot; 3 TB Sata3 Caviar Black</p>
+                        </td>
+                        <td><p>
+                            2570000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Western Digital 3.5&quot; 4 TB Sata3 Purple</p>
+                        </td>
+                        <td><p>
+                            1450000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Western Digital 3.5&quot; 4 TB Sata3 Green</p>
+                        </td>
+                        <td><p>
+                            1650000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Western Digital 3.5&quot; 4 TB Sata3 Blue</p>
+                        </td>
+                        <td><p>
+                            1470000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Western Digital 3.5&quot; 4 TB Sata3 Red</p>
+                        </td>
+                        <td><p>
+                            1710000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Western Digital 3.5&quot; 4 TB Sata3 Gold</p>
+                        </td>
+                        <td><p>
+                            2865000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Western Digital 3.5&quot; 4 TB Sata3 Caviar Black</p>
+                        </td>
+                        <td><p>
+                            2880000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Western Digital 3.5&quot; 5 TB Sata3 Green</p>
+                        </td>
+                        <td><p>
+                            2185000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Western Digital 3.5&quot; 5 TB Sata3 Blue</p>
+                        </td>
+                        <td><p>
+                            2525000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Western Digital 3.5&quot; 5 TB Sata3 Red</p>
+                        </td>
+                        <td><p>
+                            2780000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Western Digital 3.5&quot; 5 TB Sata3 Purple</p>
+                        </td>
+                        <td><p>
+                            2940000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Western Digital 3.5&quot; 6 TB Sata3 Green (Ready Stock)</p>
+                        </td>
+                        <td><p>
+                            2380000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Western Digital 3.5&quot; 6 TB Sata3 Red</p>
+                        </td>
+                        <td><p>
+                            2690000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Western Digital 3.5&quot; 6 TB Sata3 Blue</p>
+                        </td>
+                        <td><p>
+                            2440000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Western Digital 3.5&quot; 6 TB Sata3 Purple</p>
+                        </td>
+                        <td><p>
+                            2450000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Western Digital 3.5&quot; 6 TB Sata3 Gold</p>
+                        </td>
+                        <td><p>
+                            4700000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Western Digital 3.5&quot; 8 TB Sata3 Red</p>
+                        </td>
+                        <td><p>
+                            3470000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Western Digital 3.5&quot; 8 TB Sata3 Purple</p>
+                        </td>
+                        <td><p>
+                            3250000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Western Digital 3.5&quot; 8 TB Sata3 Gold</p>
+                        </td>
+                        <td><p>
+                            5000000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Western Digital 3.5&quot; 10 TB Sata3 Red</p>
+                        </td>
+                        <td><p>
+                            4520000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Western Digital 3.5&quot; 10 TB Sata3 Purple</p>
+                        </td>
+                        <td><p>
+                            4300000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Western Digital 3.5&quot; 10 TB Sata3 Gold</p>
+                        </td>
+                        <td><p>
+                            6280000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Western Digital 3.5&quot; 12 TB Sata3 Purple</p>
+                        </td>
+                        <td><p>
+                            5900000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Western Digital 3.5&quot; 12 TB Sata3 Gold</p>
+                        </td>
+                        <td><p>
+                            7570000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Hitachi 3.5&quot; 160 GB IDE</p>
+                        </td>
+                        <td><p>
+                            145000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Hitachi 3.5&quot; 160 GB Sata2 / Sata3</p>
+                        </td>
+                        <td><p>
+                            190000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Hitachi 3.5&quot; 250 GB Sata2 / Sata3</p>
+                        </td>
+                        <td><p>
+                            220000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Hitachi 3.5&quot; 320 GB Sata2 / Sata3</p>
+                        </td>
+                        <td><p>
+                            240000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Hitachi 3.5&quot; 500 GB Sata2 / Sata3</p>
+                        </td>
+                        <td><p>
+                            425000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Hitachi 3.5&quot; 1 TB Sata3</p>
+                        </td>
+                        <td><p>
+                            480000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Hitachi 3.5&quot; 2 TB Sata3</p>
+                        </td>
+                        <td><p>
+                            845000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Hitachi 3.5&quot; 3 TB Sata3</p>
+                        </td>
+                        <td><p>
+                            1245000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Hitachi 3.5&quot; 4 TB Sata3</p>
+                        </td>
+                        <td><p>
+                            1735000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Hitachi 3.5&quot; 6 TB Sata3</p>
+                        </td>
+                        <td><p>
+                            3220000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Maxtor 3.5&quot; 250 GB IDE</p>
+                        </td>
+                        <td><p>
+                            485000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Samsung 3.5&quot; 160 GB Sata2 / Sata3</p>
+                        </td>
+                        <td><p>
+                            200000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Samsung 3.5&quot; 250 GB Sata2 / Sata3</p>
+                        </td>
+                        <td><p>
+                            265000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Samsung 3.5&quot; 320 GB Sata2 / Sata3</p>
+                        </td>
+                        <td><p>
+                            315000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Samsung 3.5&quot; 500 GB Sata2 / Sata3</p>
+                        </td>
+                        <td><p>
+                            435000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Samsung 3.5&quot; 1 TB Sata3</p>
+                        </td>
+                        <td><p>
+                            485000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Samsung 3.5&quot; 2 TB Sata3</p>
+                        </td>
+                        <td><p>
+                            775000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Toshiba 3.5&quot; 80 GB Sata2</p>
+                        </td>
+                        <td><p>
+                            165000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Toshiba 3.5&quot; 160 GB Sata3</p>
+                        </td>
+                        <td><p>
+                            225000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Toshiba 3.5&quot; 320 GB Sata3</p>
+                        </td>
+                        <td><p>
+                            295000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Toshiba 3.5&quot; 500 GB Sata3</p>
+                        </td>
+                        <td><p>
+                            550000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Toshiba 3.5&quot; 500 GB Sata3 Server (DT01ACA50) Ready Stock</p>
+                        </td>
+                        <td><p>
+                            950000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Toshiba 3.5&quot; 1 TB Sata3 Server (DT01ACA100) Ready Stock</p>
+                        </td>
+                        <td><p>
+                            1450000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Toshiba 3.5&quot; 2 TB Sata3 Server (DT01ACA200) Ready Stock</p>
+                        </td>
+                        <td><p>
+                            1850000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Toshiba 3.5&quot; 1 TB Sata3</p>
+                        </td>
+                        <td><p>
+                            585000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Toshiba 3.5&quot; 2 TB Sata3</p>
+                        </td>
+                        <td><p>
+                            845000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Toshiba 3.5&quot; 3 TB Sata3</p>
+                        </td>
+                        <td><p>
+                            1180000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Toshiba 3.5&quot; 4 TB Sata3</p>
+                        </td>
+                        <td><p>
+                            1520000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Toshiba 3.5&quot; 5 TB Sata3</p>
+                        </td>
+                        <td><p>
+                            2270000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Toshiba 3.5&quot; 6 TB Sata3</p>
+                        </td>
+                        <td><p>
+                            2420000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Toshiba 3.5&quot; 8 TB Sata3</p>
+                        </td>
+                        <td><p>
+                            3630000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Toshiba 3.5&quot; 10 TB Sata3</p>
+                        </td>
+                        <td><p>
+                            4800000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Toshiba 3.5&quot; 1 TB Sata3</p>
+                        </td>
+                        <td><p>
+                            540000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Toshiba 3.5&quot; 500 GB Sata3 5700RPM For CCTV - TSB-DT01ABA050V</p>
+                        </td>
+                        <td><p>
+                            500000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Toshiba 3.5&quot; 1 TB Sata3 5700RPM For CCTV - TSB-DT01ABA100V</p>
+                        </td>
+                        <td><p>
+                            595000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Toshiba 3.5&quot; 2 TB Sata3 5700RPM For CCTV - TSB-DT01ABA200V</p>
+                        </td>
+                        <td><p>
+                            855000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Toshiba 3.5&quot; 3 TB Sata3 5700RPM For CCTV - TSB-DT01ABA300V</p>
+                        </td>
+                        <td><p>
+                            1180000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Toshiba 3.5&quot; 2 TB Sata3 7200RPM For CCTV - TSB-MD03ACA200V</p>
+                        </td>
+                        <td><p>
+                            625000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Toshiba 3.5&quot; 3 TB Sata3 7200RPM For CCTV - TSB-MD03ACA300V</p>
+                        </td>
+                        <td><p>
+                            1200000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Toshiba 3.5&quot; 4 TB Sata3 5400RPM For CCTV - TSB-MD04ABA400V</p>
+                        </td>
+                        <td><p>
+                            1590000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Toshiba 3.5&quot; 4 TB Sata3 7200RPM For CCTV - TSB-MD03ACA400V</p>
+                        </td>
+                        <td><p>
+                            1800000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Toshiba 3.5&quot; 5 TB Sata3 7200RPM For CCTV - TSB-MD03ACA500V</p>
+                        </td>
+                        <td><p>
+                            2500000</p>
+                        </td>
+                    </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="vendor/js/jquery.min.js"></script>
+<script src="vendor/js/bootstrap.bundle.min.js"></script>
+<script src="vendor/js/jquery.easing.min.js"></script>
+<script src="vendor/js/jquery.dataTables.min.js"></script>
+<script src="vendor/js/dataTables.bootstrap4.min.js"></script>
+<script src="js/main.js"></script>
+</body>
+</html>

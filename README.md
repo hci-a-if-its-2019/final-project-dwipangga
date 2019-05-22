@@ -374,7 +374,9 @@ Let's summarize how the participant's reaction during interview...
  - **Reason**: N/A
  - **Resolution**: For the layout it's same resolution like in first participant 5 picture. We must fix it. And, we must redesign everything about the pricelist section so, it's can be more interesting and comfort to see with our eye.
 
-##### Flow Model:
+##### Flow 
+
+:
  ![Screen 1](/img/dennastolongdong)
 
 ### 5. Do and Don't
@@ -530,7 +532,7 @@ There are nothing to observed, since his not critic the new prototype
  - **Resolution**: Re organize the layout
 
 ##### Flow Model:
- ![Screen 1](asasasasasa)
+ ![Screen 1](/img/Model4.png)
 
 #### Observation of Participant 3
 There are nothing to observed, since his not critic the new prototype

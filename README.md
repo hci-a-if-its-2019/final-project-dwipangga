@@ -504,7 +504,7 @@ Note: Turanzonk Lovers is his alias name (Not his real name), it derived from Tu
 There are nothing to observed, since his not critic the new prototype
 
 #### Observation of Participant 2
-![Screen 1](/img/2019-05-22 (1).png)
+![Screen 1](https://raw.githubusercontent.com/hci-a-if-its-2019/final-project-dwipangga/master/img/2019-05-22%20(1).png)
 
  - **Reference**: Line 10
  - **Feedback**: Columns too big.
@@ -512,7 +512,7 @@ There are nothing to observed, since his not critic the new prototype
  - **Reason**: For the searching function, because it just a static prototype using Adobe XD (Not dynamic). For the filter function, because he was try the prototype before the filter function was made (Not like in participant 1 and 3, it tried after the prototype was completed)
  - **Resolution**: Re adjust the column table in the second prototype (using HTML and PHP)
 
-![Screen 2](/img/2019-05-22 (2).png)
+![Screen 2](https://github.com/hci-a-if-its-2019/final-project-dwipangga/blob/master/img/2019-05-22%20(2).png)
 
  - **Reference**: Line 12
  - **Feedback**: Not too catchy welcome page
@@ -520,7 +520,7 @@ There are nothing to observed, since his not critic the new prototype
  - **Reason**: N/A
  - **Resolution**: Add some welcoming words on home page
 
-![Screen 3](/img/2019-05-22 (3).png)
+![Screen 3](https://github.com/hci-a-if-its-2019/final-project-dwipangga/blob/master/img/2019-05-22%20(3).png)
 
  - **Reference**: Line 14
  - **Feedback**: Too Much Marketing Contact Persons and the layout need to re organized

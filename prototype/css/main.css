@@ -25,11 +25,11 @@ body {
 }
 
 #mainNav .navbar-nav .nav-item .nav-link:hover, #mainNav .navbar-nav .nav-item .nav-link:active {
-    color: #f4623a;
+    color: #01a299;
 }
 
 #mainNav .navbar-nav .nav-item .nav-link.active {
-    color: #f4623a !important;
+    color: #01a299 !important;
 }
 
 @media (min-width: 992px) {
@@ -63,20 +63,20 @@ body {
         color: #212529;
     }
     #mainNav.navbar-scrolled .navbar-brand:hover {
-        color: #f4623a;
+        color: #01a299;
     }
     #mainNav.navbar-scrolled .navbar-nav .nav-item .nav-link {
         color: #212529;
     }
     #mainNav.navbar-scrolled .navbar-nav .nav-item .nav-link:hover {
-        color: #f4623a;
+        color: #01a299;
     }
 }
 
 header.masthead {
     padding-top: 10rem;
     padding-bottom: calc(10rem - 72px);
-    background: linear-gradient(to bottom, rgba(34, 167, 240, 0.5) 0%, rgba(34, 167, 240, 0.5) 100%), url("../img/bg.jpg");
+    background: linear-gradient(to bottom, rgba(11, 56, 80, 0.8) 0%, rgba(11, 56, 80, 0.8) 100%), url("../img/bg.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: scroll;
@@ -110,4 +110,25 @@ header.masthead h1 {
 
 .text-white-75 {
     color: rgba(255, 255, 255, 0.75);
+}
+
+.bg-primary {
+    background-color: #01a299 !important;
+}
+
+.page-section {
+    padding: 8rem 0;
+}
+
+.btn-xl {
+    padding: 1.25rem 2.25rem;
+    font-size: 0.85rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    border: none;
+    border-radius: 10rem;
+}
+
+.btn-primary {
+    background-color: #01a299;
 }

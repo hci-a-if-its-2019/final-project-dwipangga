@@ -423,8 +423,9 @@ Let we introduce some people that kind enough to help our task.
 
 #### c. Description of Participant 3
 - A Female (apa ya?)
-```
-Dennas, tolong dong profilnya
+-15 years old
+-High school student
+-Relatively known IT to some extend
 ```
 
 ### 2. What our participant should do?

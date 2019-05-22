@@ -2,7 +2,13 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Document</title>
+    <link rel="stylesheet" href="vendor/css/bootstrap.min.css">
+    <link rel="stylesheet" href="vendor/css/fontawesome-all.min.css">
+    <link rel="stylesheet" href="vendor/css/dataTables.bootstrap4.min.css">
+    <link rel="stylesheet" href="css/main.css">
     <style>
         .card {
             border: 0;
@@ -14,13 +20,36 @@
             max-width: 80%;
             margin: 0 auto;
         }
-
-        .main-container {
-            margin-top: 60px;
-        }
     </style>
 </head>
 <body>
+<nav class="navbar navbar-scrolled navbar-expand-lg navbar-light fixed-top py-3" id="mainNav">
+    <div class="container">
+        <a class="navbar-brand js-scroll-trigger" href="index.html">Vira Jaya Komputer</a>
+        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse"
+                data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false"
+                aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+            <ul class="navbar-nav ml-auto my-2 my-lg-0">
+                <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger" href="pricelist.html">Pricelist</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger" href="promo.html">Promo</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger" href="index.html#about">About</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger" href="index.html#contact">How to Order</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
 <div class="container main-container">
     <div class="row">
         <div class="col-sm-12 text-center">
@@ -29,78 +58,106 @@
     </div>
     <div class="row">
         <div class="col-md-6 col-lg-3 card">
-            <img src="img/image.png" class="card-img-top">
+            <a href="catalogue/cpu.html">
+                <img src="img/cpu.png" class="card-img-top">
+            </a>
             <div class="card-body text-center">
-                <h4>Test1</h4>
+                <h4>Processor</h4>
             </div>
         </div>
         <div class="col-md-6 col-lg-3 card">
-            <img src="img/image.png" class="card-img-top">
+            <a href="catalogue/motherboard.html">
+                <img src="img/motherboard.png" class="card-img-top">
+            </a>
             <div class="card-body text-center">
-                <h4>Test2</h4>
+                <h4>Motherboard</h4>
             </div>
         </div>
         <div class="col-md-6 col-lg-3 card">
-            <img src="img/image.png" class="card-img-top">
+            <a href="catalogue/ram.html">
+                <img src="img/ram.png" class="card-img-top">
+            </a>
             <div class="card-body text-center">
-                <h4>Test3</h4>
+                <h4>RAM</h4>
             </div>
         </div>
         <div class="col-md-6 col-lg-3 card">
-            <img src="img/image.png" class="card-img-top">
+            <a href="catalogue/gpu.html">
+                <img src="img/gpu.png" class="card-img-top">
+            </a>
             <div class="card-body text-center">
-                <h4>Test4</h4>
+                <h4>Graphic Card</h4>
             </div>
         </div>
         <div class="col-md-6 col-lg-3 card">
-            <img src="img/image.png" class="card-img-top">
+            <a href="catalogue/storage.html">
+                <img src="img/hdd.png" class="card-img-top">
+            </a>
             <div class="card-body text-center">
-                <h4>Test5</h4>
+                <h4>Storage</h4>
             </div>
         </div>
         <div class="col-md-6 col-lg-3 card">
-            <img src="img/image.png" class="card-img-top">
+            <a href="catalogue/flashdisk.html">
+                <img src="img/fdd.png" class="card-img-top">
+            </a>
             <div class="card-body text-center">
-                <h4>Test1</h4>
+                <h4>Flash Drive</h4>
             </div>
         </div>
         <div class="col-md-6 col-lg-3 card">
-            <img src="img/image.png" class="card-img-top">
+            <a href="catalogue/monitor.html">
+                <img src="img/lcd.png" class="card-img-top">
+            </a>
             <div class="card-body text-center">
-                <h4>Test2</h4>
+                <h4>Monitor</h4>
             </div>
         </div>
         <div class="col-md-6 col-lg-3 card">
-            <img src="img/image.png" class="card-img-top">
+            <a href="catalogue/psu.html">
+                <img src="img/psu.png" class="card-img-top">
+            </a>
             <div class="card-body text-center">
-                <h4>Test3</h4>
+                <h4>Power Supply</h4>
             </div>
         </div>
         <div class="col-md-6 col-lg-3 card">
-            <img src="img/image.png" class="card-img-top">
+            <a href="catalogue/speaker.html">
+                <img src="img/speaker.png" class="card-img-top">
+            </a>
             <div class="card-body text-center">
-                <h4>Test4</h4>
+                <h4>Speaker</h4>
             </div>
         </div>
         <div class="col-md-6 col-lg-3 card">
-            <img src="img/image.png" class="card-img-top">
+            <a href="catalogue/printer.html">
+                <img src="img/printer.png" class="card-img-top">
+            </a>
             <div class="card-body text-center">
-                <h4>Test5</h4>
+                <h4>Printer</h4>
             </div>
         </div>
         <div class="col-md-6 col-lg-3 card">
-            <img src="img/image.png" class="card-img-top">
+            <a href="catalogue/router.html">
+                <img src="img/router.png" class="card-img-top">
+            </a>
             <div class="card-body text-center">
-                <h4>Test4</h4>
+                <h4>Router</h4>
             </div>
         </div>
         <div class="col-md-6 col-lg-3 card">
-            <img src="img/image.png" class="card-img-top">
+            <a href="catalogue/pc.html">
+                <img src="img/pc.png" class="card-img-top">
+            </a>
             <div class="card-body text-center">
-                <h4>Test5</h4>
+                <h4>PC Built-up</h4>
             </div>
         </div>
     </div>
 </div>
+<script src="vendor/js/jquery.min.js"></script>
+<script src="vendor/js/bootstrap.bundle.min.js"></script>
+<script src="vendor/js/jquery.easing.min.js"></script>
+<script src="vendor/js/jquery.magnific-popup.min.js"></script>
 </body>
 </html>

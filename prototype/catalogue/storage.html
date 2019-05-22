@@ -4,18 +4,45 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" href="vendor/css/bootstrap.min.css">
-    <link rel="stylesheet" href="vendor/css/fontawesome-all.min.css">
-    <link rel="stylesheet" href="vendor/css/dataTables.bootstrap4.min.css">
-    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="../vendor/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../vendor/css/fontawesome-all.min.css">
+    <link rel="stylesheet" href="../vendor/css/dataTables.bootstrap4.min.css">
+    <link rel="stylesheet" href="../css/main.css">
     <title>Document</title>
 </head>
 <body>
-<div class="container">
-    <!-- DataTales Example -->
+
+<nav class="navbar navbar-scrolled navbar-expand-lg navbar-light fixed-top py-3" id="mainNav">
+    <div class="container">
+        <a class="navbar-brand js-scroll-trigger" href="index.html">Vira Jaya Komputer</a>
+        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse"
+                data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false"
+                aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+            <ul class="navbar-nav ml-auto my-2 my-lg-0">
+                <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger" href="../pricelist.html">Pricelist</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger" href="../promo.html">Promo</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger" href="../index.html#about">About</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger" href="../index.html#contact">How to Order</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<div class="container main-container">
     <div class="card shadow mb-4">
         <div class="card-header py-3">
-            <h6 class="m-0 font-weight-bold text-primary">DataTables Example</h6>
+            <h6 class="m-0 font-weight-bold text-primary">Storage Catalogue</h6>
         </div>
         <div class="card-body table-wrapper">
             <div>
@@ -34,45 +61,59 @@
                     </tfoot>
                     <tbody>
                     <tr>
-                        <td><p>Seagate 3.5&quot; 80 GB IDE</p>
+                        <td><p>
+                            Seagate 3.5&quot; 80 GB IDE</p>
                         </td>
-                        <td><p>80000</p>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td><p>Seagate 3.5&quot; 120 GB IDE</p>
-                        </td>
-                        <td><p>125000</p>
+                        <td><p>
+                            80000</p>
                         </td>
                     </tr>
                     <tr>
-                        <td><p>Seagate 3.5&quot; 160 GB IDE</p>
+                        <td><p>
+                            Seagate 3.5&quot; 120 GB IDE</p>
                         </td>
-                        <td><p>145000</p>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td><p>Seagate 3.5&quot; 80 GB Sata2</p>
-                        </td>
-                        <td><p>100000</p>
+                        <td><p>
+                            125000</p>
                         </td>
                     </tr>
                     <tr>
-                        <td><p>Seagate 3.5&quot; 160 GB Sata2</p>
+                        <td><p>
+                            Seagate 3.5&quot; 160 GB IDE</p>
                         </td>
-                        <td><p>105000</p>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td><p>Seagate 3.5&quot; 250 GB Sata2</p>
-                        </td>
-                        <td><p>125000</p>
+                        <td><p>
+                            145000</p>
                         </td>
                     </tr>
                     <tr>
-                        <td><p>Seagate 3.5&quot; 320 GB Sata2</p>
+                        <td><p>
+                            Seagate 3.5&quot; 80 GB Sata2</p>
                         </td>
-                        <td><p>135000</p>
+                        <td><p>
+                            100000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Seagate 3.5&quot; 160 GB Sata2</p>
+                        </td>
+                        <td><p>
+                            105000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Seagate 3.5&quot; 250 GB Sata2</p>
+                        </td>
+                        <td><p>
+                            125000</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p>
+                            Seagate 3.5&quot; 320 GB Sata2</p>
+                        </td>
+                        <td><p>
+                            135000</p>
                         </td>
                     </tr>
                     <tr>
@@ -915,11 +956,11 @@
         </div>
     </div>
 </div>
-<script src="vendor/js/jquery.min.js"></script>
-<script src="vendor/js/bootstrap.bundle.min.js"></script>
-<script src="vendor/js/jquery.easing.min.js"></script>
-<script src="vendor/js/jquery.dataTables.min.js"></script>
-<script src="vendor/js/dataTables.bootstrap4.min.js"></script>
-<script src="js/main.js"></script>
+<script src="../vendor/js/jquery.min.js"></script>
+<script src="../vendor/js/bootstrap.bundle.min.js"></script>
+<script src="../vendor/js/jquery.easing.min.js"></script>
+<script src="../vendor/js/jquery.dataTables.min.js"></script>
+<script src="../vendor/js/dataTables.bootstrap4.min.js"></script>
+<script src="../js/collections.js"></script>
 </body>
 </html>

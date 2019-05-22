@@ -422,6 +422,7 @@ Let we introduce some people that kind enough to help our task.
 - Relatively advanced level of IT Knowledge
 
 #### c. Description of Participant 3
+- A Female (apa ya?)
 ```
 Dennas, tolong dong profilnya
 ```
@@ -457,7 +458,7 @@ P: Participant, M1: Deddy, M2: Akmal, M3: Dennas
 13. P: Iya, lebih nice
 14. M2: OKE DEH...... MAKASIH MR TURANZONK LOVERSSSSS :D :D :D
 
-(Note: Turanzonk Lovers is his alias name (Not his real name), it derived from Turangga+Zonk (Because the Turangga train is sometimes is having bad quality executive train with hard seat and without the window in single seat before it replaced with newer stainless steel carriage) hehehe. Just small intermezzo :) 
+Note: Turanzonk Lovers is his alias name (Not his real name), it derived from Turangga+Zonk (Because the Turangga train is sometimes is having bad quality executive train with hard seat and without the window in single seat before it replaced with newer stainless steel carriage) and he likes that, hehehe. Just small intermezzo :)
 ```
 
 #### b. Transcript with Participant 2
@@ -474,7 +475,7 @@ P: Participant, M1: Deddy, M2: Akmal, M3: Dennas
 9. M1: Ya namanya prototype jadi belum semuanya. Terus untuk desainnya gimana?
 10. P: Tiga kolom terlalu besar, dan seharusnya terlalu ketengah. Untuk kategori oke
 11. M1: Untuk home ada masalahkah?
-12. P: Gak ada masalah tapi hanya kurang menarik
+12. P: Gak ada masalah tapi hanya kurang menarik. Ditambahin kata-kata juga harusnya
 13. M1: Cara order?
 14. P: Marketing terlalu banyak, susunannya juga kurang bagus
 15. M1: Untuk About Us
@@ -482,6 +483,56 @@ P: Participant, M1: Deddy, M2: Akmal, M3: Dennas
 17. M1: Terima Kasih..... atas partisipasinya
 
  ```
+#### c. Transcript with Participant 3
+
+```
+1. M3: Kamu udah tau website ini kan? Coba kamu nyari Hard Disk
+2. P: Udah
+3. M3: Sekarang coba kamu cari hard disk yang paling mahal
+4. P: Dah
+5. M3: Toshiba ya?
+6. P: Ya
+7. M3: Sekarang coba kamu cari barang yang hurufnya mulai C
+8. P: Nah nih, gak ada yang huruf C
+9. M3: Sekarang coba kamu pesan
+10. P: Udah
+11. M3: Sekarang coba kamu cek alamat kita
+12. P: Udah
+
+ ```
+#### Observation of Participant 1
+There are nothing to observed, since his not critic the new prototype
+
+#### Observation of Participant 2
+![Screen 1](/img/2019-05-22 (1).png)
+
+ - **Reference**: Line 10
+ - **Feedback**: Columns too big.
+ - **Incidence**: The Participant cannot use the searching function. And, he cannot use the filter function. Because he tried before the filter function is worked on that prototype
+ - **Reason**: For the searching function, because it just a static prototype using Adobe XD (Not dynamic). For the filter function, because he was try the prototype before the filter function was made (Not like in participant 1 and 3, it tried after the prototype was completed)
+ - **Resolution**: Re adjust the column table in the second prototype (using HTML and PHP)
+
+![Screen 2](/img/2019-05-22 (2).png)
+
+ - **Reference**: Line 12
+ - **Feedback**: Not too catchy welcome page
+ - **Incidence**: N/A
+ - **Reason**: N/A
+ - **Resolution**: Add some welcoming words on home page
+
+![Screen 3](/img/2019-05-22 (3).png)
+
+ - **Reference**: Line 14
+ - **Feedback**: Too Much Marketing Contact Persons and the layout need to re organized
+ - **Incidence**: N/A
+ - **Reason**: N/A
+ - **Resolution**: Re organize the layout
+
+##### Flow Model:
+ ![Screen 1](asasasasasa)
+
+#### Observation of Participant 3
+There are nothing to observed, since his not critic the new prototype
 
  ---
 `Please come again later for more updates on this project.`

@@ -538,7 +538,18 @@ There are nothing to observed, since his not critic the new prototype
 There are nothing to observed, since his not critic the new prototype
 
 ## Part D: Prototyping (Again)
-Here is our re designed [website](https://ojoakua.site/static/imk/index.html), enjoy. You can open with mobile devices too
+
+### 1. Sketch
+![Sketch1](/img/Sketch.png)
+
+That's just same sketch, but we just only redesigned the landing page
+
+### 2. Design Rationale
+First, we redesigned the landing page. It's just mostly same like first high fidelity prototype. But, we redesigned to more suitable to responsive theme. Second, we choose to use card in the pricelist page because it's more easier to implement the card than the carrousel in Responsive theme (For the first High Fidelity prototype, we use the carrousel. And the second is use card just like our sketch). For the table and anything, there is no more to redesigned again, just only modify to more fitted to responsive theme.
+
+### 3. High-Fidelity Interactive-Prototype (Revisioned)
+
+Here is our redesigned [website](https://ojoakua.site/static/imk/index.html), enjoy. You can open with mobile devices too
 
  ---
 `Please come again later for more updates on this project.`

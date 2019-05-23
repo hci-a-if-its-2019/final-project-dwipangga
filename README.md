@@ -550,6 +550,8 @@ First, we redesigned the landing page. It's just mostly same like first high fid
 ### 3. High-Fidelity Interactive-Prototype (Revisioned)
 
 Here is our redesigned [website](https://ojoakua.site/static/imk/index.html), enjoy. You can open with mobile devices too
-![Mobile1].(/img/Mobile3 (5).jpg)
+
+![Mobile1](/img/Mobile3 (5).jpg)
+
  ---
 `Please come again later for more updates on this project.`

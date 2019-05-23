@@ -425,9 +425,9 @@ Let we introduce some people that kind enough to help our task.
 
 #### c. Description of Participant 3
 - A Female student
--15 years old
--High schooler
--Relatively known IT to some extend
+- 15 years old
+- High schooler
+- Relatively known IT to some extend
 
 
 ### 2. What our participant should do?

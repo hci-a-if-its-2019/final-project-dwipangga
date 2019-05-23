@@ -394,10 +394,10 @@ Let's summarize how the participant's reaction during interview...
 ## Part B: Prototyping
 
 ### 1. Sketch
-<!-- TODO: add some sketch -->
+(/img/Sketch.png)
 
 ### 2. Design Rationale
-> There will be some paragraph here...
+First the reason why add I more picture on website homepage mainly because the original one is isn't well designed and there is too much text.So by adding more picture and link it toward the product will make easier for customer to at least see the list of product they have,then for the product site we need bigger font and obviously sorting. That's why we put some sorting beside the price and object so we can sort it easily depend on what you want.We also add number on bottom to change the page and made it more tidy and easier to access,by doing this user can know how much product we have.We also add object type beside the object tab to make user know what type object they was accessing .
 
 ### 3. High-Fidelity Interactive-Prototype
 

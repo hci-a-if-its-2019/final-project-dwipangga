@@ -42,6 +42,7 @@
 // Call the dataTables jQuery plugin
 $(document).ready(function() {
     $('#dataTable').DataTable({
-        'dom': '<"container-fluid"<"row"<"col-lg-4"f><"col-lg-8"p>><"table-responsive"rt><"row"<"col-lg-6"i><"col-lg-6"p>>>'
+        'dom': '<"container-fluid"<"row"<"col-lg-4"f><"col-lg-8"p>><"table-responsive"rt><"row"<"col-lg-6"i><"col-lg-6"p>>>',
+        'pagingType': 'simple_numbers'
     });
 });

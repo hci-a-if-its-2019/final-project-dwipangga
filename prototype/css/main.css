@@ -6,6 +6,10 @@ body {
     margin-top: 100px;
 }
 
+.dataTables_paginate {
+    font-size: 10pt;
+}
+
 #logo-img {
     max-height: 32px;
 }

@@ -401,7 +401,7 @@ First the reason why add I more picture on website homepage mainly because the o
 
 ### 3. High-Fidelity Interactive-Prototype
 
-The high-fidelity prototype can be accessed [here](#link-to-prototype)
+The high-fidelity prototype can be accessed [here](https://xd.adobe.com/view/7b6af12b-4de4-41ab-791a-145219f1f037-0d5b/?fullscreen)
 
 ---
 
@@ -536,6 +536,9 @@ There are nothing to observed, since his not critic the new prototype
 
 #### Observation of Participant 3
 There are nothing to observed, since his not critic the new prototype
+
+## Part D: Prototyping (Again)
+Here is our re designed [website](https://ojoakua.site/static/imk/index.html), enjoy. You can open with mobile devices too
 
  ---
 `Please come again later for more updates on this project.`

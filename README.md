@@ -553,7 +553,7 @@ Here is our redesigned [website](https://ojoakua.site/static/imk/index.html), en
 
 
 
-![Mobile1](/img/Mobile3 (5).jpg)
+  ![Mobile1](/img/Mobile1.jpg)
 
  ---
 `Please come again later for more updates on this project.`

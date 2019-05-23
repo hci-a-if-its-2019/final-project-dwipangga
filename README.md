@@ -377,7 +377,7 @@ Let's summarize how the participant's reaction during interview...
 ##### Flow 
 
 :
- ![Screen 1](/img/model4.png)
+ ![Screen 1](/img/Model4.png)
 
 ### 5. Do and Don't
 

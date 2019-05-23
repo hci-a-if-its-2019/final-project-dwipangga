@@ -6,6 +6,10 @@ body {
     margin-top: 100px;
 }
 
+#logo-img {
+    max-height: 32px;
+}
+
 #mainNav {
     -webkit-box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
     box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);

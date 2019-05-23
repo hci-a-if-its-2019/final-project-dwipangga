@@ -532,7 +532,7 @@ There are nothing to observed, since his not critic the new prototype
  - **Resolution**: Re organize the layout
 
 ##### Flow Model:
- ![Screen 1](/img/Model4.png)
+ ![Screen 1](/img/Model5.png)
 
 #### Observation of Participant 3
 There are nothing to observed, since his not critic the new prototype
